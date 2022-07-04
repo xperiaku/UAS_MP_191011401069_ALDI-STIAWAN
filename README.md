@@ -1,16 +1,5 @@
-# uas_mp
+Detail Screen
+![detail screen](https://user-images.githubusercontent.com/102168743/177189884-b97994d0-0150-4d81-b969-8aaeebb1dfcd.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screen
+![screen](https://user-images.githubusercontent.com/102168743/177189892-ba1bf9cc-e684-4784-a2c5-334cd1c525a5.png)
